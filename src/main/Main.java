@@ -1,3 +1,5 @@
+// creates the window
+
 package main;
 
 import javax.swing.JFrame;
